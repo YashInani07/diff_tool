@@ -1,0 +1,9 @@
+The quick brown fox jumps over the lazy dog
+This is a modified sample file for testing
+The diff tool can handle multiple lines
+With various types of changes
+Some lines remain the same
+And new ones are inserted
+Additionally, we can have extra content
+This demonstrates the diff algorithm
+With some improvements
